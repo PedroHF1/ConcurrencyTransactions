@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715276316 source:c:\users\bcx001\documents\vscode\concurrencytransactions\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<chrono>
+
